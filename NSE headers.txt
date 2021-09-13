@@ -1,0 +1,9 @@
+Host: www.nseindia.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Referer: https://www.nseindia.com/option-chain
+Cookie: _ga=GA1.2.460585163.1622459671; RT="z=1&dm=nseindia.com&si=2bed572d-957c-44e6-9be8-9a4a5d16ed0c&ss=kqtadgct&sl=0&tt=0&bcn=%2F%2F684fc53f.akstat.io%2F&nu=ed8553192c8d124be55949cc1b2e99dc&cl=5rx2z"; _gid=GA1.2.1244730889.1625467278; ak_bmsc=27A67EF3D20B88A432B5594F87CEC249~000000000000000000000000000000~YAAQN0YDFxbgzut5AQAASR3ngAwQLBS0X0a8eYAF+haaYY+ELUMlhceFWgP6zsth1ZE7NFXaEIJEQjVDVoQkBFumVe6YY3joge3cBF+Ya3VWQ2OSAk1mQ79jIfFmA56yKQcbQZ9ms38AMubfK+MzvkDvkHHfOX0IIKOw8MunSbBN8HnfoghKRS0APxYkxnaAk6Kuk9dQydk6/oTAIM11Vdv6Or5JKRogI9eegocVbKpBdTeUIejGm8JbYQ9EmqA+/x9P1glNGzDTPmB18rMNEbbT8ddVjZrqPgTO6pdrLPKVGPhzzI2lLCyL/a+uauP60VlVW2IHad7vJ3CeeCQdeOySXYbL2W9AsyRZ8UUvCFtqD+j/cSt/2AIpDDtlwFPVxv+mE8GJTyXwaqeVY24=
+TE: Trailers
